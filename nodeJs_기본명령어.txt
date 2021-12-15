@@ -1,0 +1,9 @@
+1. npm 이니셜라이징
+npm init
+
+2. express 설치
+npm install express
+
+3. 서버 실행 자동화를 위한 nodemon 설치
+npm install -g nodemon
+nodemon (*.js 형식의 파일 이름)
